@@ -25,17 +25,3 @@
 5. Swagger + Knife4j 接口文档
 6. Gson：JSON 序列化库
 
-## 项目效果页面
-
-<img src="C:\Users\29144\Desktop\Stud伙伴匹配组队系统图片\image-20230714221352039.png" alt="image-20230714221352039" style="zoom: 80%;" /><<img src="C:\Users\29144\Desktop\Stud伙伴匹配组队系统图片\image-20230714222402532.png" alt="image-20230714222402532" style="zoom:80%;" />c="C:\Users\29144\AppData\Roaming\Typora\typora-user-images\image-20230714221615386.png" alt="image-20230714221615386" style="zoom: 80%;" />
-
-<img src="C:\Users\29144\Desktop\Stud伙伴匹配组队系统图片\image-20230714221753785.png" alt="image-20230714221753785" style="zoom:80%;" /><img src="C:\Users\29144\Desktop\Stud伙伴匹配组队系统图片\image-20230714221833401.png" alt="image-20230714221833401" style="zoom:80%;" />
-
-<img src="C:\Users\29144\Desktop\Stud伙伴匹配组队系统图片\image-20230714221923615.png" alt="image-20230714221923615" style="zoom:80%;" /><img src="C:\Users\29144\Desktop\Stud伙伴匹配组队系统图片\image-20230714222626479.png" alt="image-20230714222626479" style="zoom:80%;" />
-
-<img src="C:\Users\29144\Desktop\Stud伙伴匹配组队系统图片\image-20230714222456416.png" alt="image-20230714222456416" style="zoom:80%;" />
-
-
-
-
-
