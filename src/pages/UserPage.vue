@@ -63,7 +63,7 @@ import {Toast} from "vant";
 // const user = {
 //
 //   id: 1,
-//   username: 'niuma',
+//   username: 'booboil',
 //   userAccount: '123',
 //   avatarUrl: 'https://xingqiu-tuchuang-1256524210.cos.ap-shanghai.myqcloud.com/359/morentoux.png',
 //   gender: '男',

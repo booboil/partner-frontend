@@ -4,8 +4,8 @@ import axios, {AxiosInstance} from "axios";
 
 const myAxios = axios.create({
     // 线上地址 production  本地开发环境development
-    baseURL: process.env.NODE_ENV === "development" ? 'http://localhost:8081/api' : 'http://175.178.172.77/api'
-    // baseURL: 'http://localhost:8081/api'
+    // baseURL: process.env.NODE_ENV === "development" ? 'http://localhost:8081/api' : 'http://175.178.172.77/api'
+    baseURL: 'http://localhost:8081/api'
     // baseURL: 'http://175.178.172.77/api',
 });
 
